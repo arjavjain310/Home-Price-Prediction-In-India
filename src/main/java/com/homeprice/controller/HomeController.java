@@ -29,7 +29,7 @@ public class HomeController {
         this.predictionService = predictionService;
     }
 
-    @GetMapping
+    @GetMapping(value = {"", "/"})
     public String home(Model model) {
         model.addAttribute("propertyInput", new PropertyInput());
         List<String> locations = modelTrainer.getLocationOrder();
