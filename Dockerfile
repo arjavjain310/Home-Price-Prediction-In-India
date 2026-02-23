@@ -18,4 +18,5 @@ USER appuser
 COPY --from=build /app/target/home-price-prediction-1.0.0.jar app.jar
 
 EXPOSE 8080
-ENTRYPOINT ["java", "-jar", "app.jar"]
+ENV PORT=8080
+ENTRYPOINT ["sh", "-c", "exec java -Dserver.port=${PORT} -jar app.jar"]
