@@ -1,0 +1,100 @@
+square_feet,bhk,bathrooms,location,price_inr
+1200,2,2,Mumbai,8500000
+1500,3,2,Mumbai,12000000
+1800,3,3,Mumbai,15500000
+1100,2,2,Delhi,7200000
+1400,3,2,Delhi,9800000
+1600,3,3,Delhi,11500000
+1000,2,1,Bangalore,5500000
+1300,3,2,Bangalore,7200000
+1700,4,3,Bangalore,9500000
+950,2,1,Hyderabad,4200000
+1250,3,2,Hyderabad,5800000
+1550,3,3,Hyderabad,7500000
+1050,2,2,Chennai,4800000
+1350,3,2,Chennai,6200000
+1650,4,3,Chennai,8200000
+1150,2,2,Pune,4500000
+1450,3,2,Pune,6000000
+1750,4,3,Pune,7800000
+900,2,1,Kolkata,3800000
+1200,3,2,Kolkata,5200000
+1500,3,3,Kolkata,6800000
+1200,2,2,Andhra Pradesh,3200000
+1400,3,2,Andhra Pradesh,4200000
+1100,2,2,Arunachal Pradesh,2200000
+1300,3,2,Arunachal Pradesh,2800000
+1150,2,2,Assam,2500000
+1350,3,2,Assam,3200000
+1000,2,1,Bihar,2400000
+1250,3,2,Bihar,3100000
+1100,2,2,Chhattisgarh,2200000
+1400,3,2,Chhattisgarh,2900000
+1300,3,2,Goa,5800000
+1600,4,3,Goa,7500000
+1200,2,2,Gujarat,3800000
+1500,3,2,Gujarat,5200000
+1300,3,2,Haryana,6200000
+1600,4,3,Haryana,8200000
+1200,2,2,Himachal Pradesh,3500000
+1500,3,2,Himachal Pradesh,4800000
+1100,2,2,Jharkhand,2600000
+1350,3,2,Jharkhand,3400000
+1000,2,1,Karnataka,5500000
+1300,3,2,Karnataka,7200000
+1200,2,2,Kerala,4200000
+1500,3,2,Kerala,5600000
+1100,2,2,Madhya Pradesh,2800000
+1400,3,2,Madhya Pradesh,3600000
+1200,2,2,Maharashtra,8500000
+1500,3,2,Maharashtra,12000000
+1000,2,1,Manipur,2200000
+1250,3,2,Manipur,2800000
+1050,2,2,Meghalaya,2400000
+1300,3,2,Meghalaya,3100000
+1000,2,1,Mizoram,2300000
+1200,3,2,Mizoram,2900000
+1050,2,2,Nagaland,2400000
+1300,3,2,Nagaland,3000000
+1100,2,2,Odisha,2700000
+1400,3,2,Odisha,3500000
+1200,2,2,Punjab,4500000
+1500,3,2,Punjab,6000000
+1150,2,2,Rajasthan,3200000
+1450,3,2,Rajasthan,4200000
+1200,2,2,Sikkim,3800000
+1500,3,2,Sikkim,5000000
+1050,2,2,Tamil Nadu,4800000
+1350,3,2,Tamil Nadu,6200000
+1200,2,2,Telangana,4200000
+1500,3,2,Telangana,5800000
+1050,2,2,Tripura,2200000
+1300,3,2,Tripura,2800000
+1100,2,2,Uttar Pradesh,3200000
+1400,3,2,Uttar Pradesh,4200000
+1200,2,2,Uttarakhand,4000000
+1500,3,2,Uttarakhand,5200000
+900,2,1,West Bengal,3800000
+1200,3,2,West Bengal,5200000
+1000,2,1,Andaman and Nicobar Islands,3500000
+1250,3,2,Andaman and Nicobar Islands,4500000
+1100,2,2,Chandigarh,6200000
+1400,3,2,Chandigarh,7800000
+1000,2,1,Dadra and Nagar Haveli and Daman and Diu,2800000
+1250,3,2,Dadra and Nagar Haveli and Daman and Diu,3600000
+1100,2,2,Jammu and Kashmir,3200000
+1400,3,2,Jammu and Kashmir,4200000
+1100,2,2,Ladakh,3800000
+1350,3,2,Ladakh,4800000
+950,2,1,Lakshadweep,4200000
+1200,3,2,Lakshadweep,5500000
+1100,2,2,Puducherry,4500000
+1400,3,2,Puducherry,5800000
+1300,3,2,Mumbai,10500000
+1600,3,3,Delhi,10800000
+1400,3,2,Bangalore,6800000
+1900,4,4,Mumbai,18500000
+2000,4,4,Delhi,13500000
+2100,4,4,Bangalore,11500000
+2200,5,4,Mumbai,22000000
+2400,5,4,Delhi,16500000
