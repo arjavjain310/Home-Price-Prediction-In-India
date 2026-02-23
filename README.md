@@ -2,6 +2,13 @@
 
 A Spring Boot web application that predicts home prices in Indian Rupees (₹) using a simple **Linear Regression** model trained in Java (no Python). Users enter property details (square feet, BHK, bathrooms, location) and get an estimated price.
 
+## Live link (view by anyone)
+
+**https://home-price-prediction-in-india.onrender.com**
+
+Anyone with this link can open the app and get price estimates.  
+*Note: On the free tier the app may take ~50 seconds to respond after a period of inactivity.*
+
 ## Features
 
 - **MVC architecture**: Controller, Service, Domain models, Thymeleaf views
